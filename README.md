@@ -1,4 +1,6 @@
 # UNP_CLASSIFICATION_PROJECT_WITH_PYTHON_ENGINEERING_GRADUATE_SALARY_ANALYSIS
 Productivity Prediction of Garment Employees This project aims to predict the productivity of garment factory employees using regression-based machine learning models. The dataset, sourced from the UCI Machine Learning Repository, includes 1,197 instances with 14 operational features such as overtime, incentives, idle time, and number of workers. Comprehensive data preprocessing was performed: handling missing values, renaming columns, and correcting inconsistencies for accuracy. Through exploratory data analysis, visualizations such as pair plots, heatmaps, and bar charts were used to identify key productivity factors. Three models Linear Regression, Decision Tree, and Random Forest were implemented and compared. Among them, Random Forest achieved the best R² score (0.46), demonstrating strong predictive accuracy and robustness. The findings highlight that higher incentives and targeted productivity enhance efficiency, while idle time and frequent style changes reduce output. This project provides actionable insights to optimize workforce performance in the garment manufacturing sector.
 
-PROJECT FILE: https://drive.google.com/drive/folders/1FDTKa6bjyjZ8Hy89mePFhCLzQG8_aLyO?usp=drive_link
+PROJECT PPT FILE: https://drive.google.com/file/d/1Z6fl-XTJa2g3wcYxTt1bP9vSWMQfqETX/view?usp=drive_link
+
+PROJECT COLAB FILE: https://drive.google.com/file/d/1eNoTcLplDDiD7FyXmxpvR6D_S6FdMyp_/view?usp=sharing
