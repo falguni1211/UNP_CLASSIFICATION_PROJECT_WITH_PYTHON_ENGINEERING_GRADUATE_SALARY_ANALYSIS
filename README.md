@@ -3,4 +3,4 @@ Productivity Prediction of Garment Employees This project aims to predict the pr
 
 PROJECT PPT FILE: https://drive.google.com/file/d/1Z6fl-XTJa2g3wcYxTt1bP9vSWMQfqETX/view?usp=drive_link
 
-PROJECT COLAB FILE: https://drive.google.com/file/d/1eNoTcLplDDiD7FyXmxpvR6D_S6FdMyp_/view?usp=sharing
+PROJECT COLAB FILE: https://colab.research.google.com/drive/1eNoTcLplDDiD7FyXmxpvR6D_S6FdMyp_
